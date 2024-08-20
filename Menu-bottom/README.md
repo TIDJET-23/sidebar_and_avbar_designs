@@ -1,2 +1,2 @@
-![Texte alternatif](./capteur1.png)
-![Texte alternatif](./capteur2.png)
+![Texte alternatif](./capteur-01.png)
+![Texte alternatif](./capteur-02.png)
